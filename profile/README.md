@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="300" src="https://gitee.com/bulls-cows/bulls-cows/raw/master/bull.svg" alt="牛气腾腾" />
+  <img width="300" src="https://gitee.com/bulls-cows/.github/raw/master/bull.svg" alt="牛气腾腾" />
 </div>
 
 # 一、组织介绍
@@ -18,5 +18,5 @@
 如果您觉得我们的开源软件对您有所帮助且愿意打赏一下我们，可以扫下方二维码进行打赏。
 
 <div align="center">
-  <img width="500" src="https://gitee.com/bulls-cows/bulls-cows/raw/master/pay.png" alt="支付宝打赏" />
+  <img width="500" src="https://gitee.com/bulls-cows/.github/raw/master/pay.png" alt="支付宝打赏" />
 </div>
