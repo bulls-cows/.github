@@ -18,5 +18,5 @@
 如果您觉得我们的开源软件对您有所帮助且愿意打赏一下我们，可以扫下方二维码进行打赏。
 
 <div align="center">
-  <img width="500" src="https://gitee.com/bulls-cows/.github/raw/master/pay.png" alt="支付宝打赏" />
+  <img width="500" src="https://cdn.verysites.com/verysites/static/img/pay/pay-person-together.png" alt="支付宝打赏和微信打赏" />
 </div>
