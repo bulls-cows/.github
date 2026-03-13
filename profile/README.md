@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="300" src="https://gitee.com/bulls-cows/.github/raw/master/bull.svg" alt="牛气腾腾" />
+  <img width="300" src="https://cdn.verysites.com/verysites/static/img/logo.svg" alt="牛气腾腾的logo" />
 </div>
 
 # 一、组织介绍
