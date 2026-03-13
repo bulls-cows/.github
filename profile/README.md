@@ -15,8 +15,4 @@
 这些公司或软件正在使用我们的开源项目：
 
 # 三、捐助
-如果您觉得我们的开源软件对您有所帮助且愿意打赏一下我们，可以扫下方二维码进行打赏。
-
-<div align="center">
-  <img width="500" src="https://cdn.verysites.com/verysites/static/img/pay/pay-person-together.png" alt="支付宝打赏和微信打赏" />
-</div>
+如果您觉得我们的开源项目对您有所帮助且愿意支持我们，可以在[这里](https://www.verysites.com/donation)扫码打赏我们。
